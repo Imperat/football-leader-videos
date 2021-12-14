@@ -1,0 +1,697 @@
+[
+    {
+        "time": "71.00",
+        "timeOrig": "2021-12-09T15:33:59.813Z",
+        "description": 0,
+        "payload": {
+            "name": "ВСО, 09.12"
+        }
+    },
+    {
+        "time": "235.57",
+        "timeOrig": "2021-12-09T15:36:44.383Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Миша Блэк Бразе",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "415.09",
+        "timeOrig": "2021-12-09T15:39:43.903Z",
+        "description": 4,
+        "payload": {
+            "playerName": "- #3",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "571.74",
+        "timeOrig": "2021-12-09T15:42:20.555Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b223da5e76e10543f78923",
+            "gameNumber": 0,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            }
+        }
+    },
+    {
+        "time": "579.32",
+        "timeOrig": "2021-12-09T15:42:28.135Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b223da5e76e10543f78923"
+        }
+    },
+    {
+        "time": "582.56",
+        "timeOrig": "2021-12-09T15:42:31.371Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b223e65e76e10543f78926",
+            "gameNumber": 1,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            }
+        }
+    },
+    {
+        "time": "589.06",
+        "timeOrig": "2021-12-09T15:42:37.871Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Саня Темп",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "676.02",
+        "timeOrig": "2021-12-09T15:44:04.835Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Виталя",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "746.56",
+        "timeOrig": "2021-12-09T15:45:15.373Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Саня Темп",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "746.66",
+        "timeOrig": "2021-12-09T15:45:15.478Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b223e65e76e10543f78926"
+        }
+    },
+    {
+        "time": "769.86",
+        "timeOrig": "2021-12-09T15:45:38.668Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b2248c5e76e10543f7892a",
+            "gameNumber": 2,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            }
+        }
+    },
+    {
+        "time": "881.80",
+        "timeOrig": "2021-12-09T15:47:30.618Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Саня Темп",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "1152.29",
+        "timeOrig": "2021-12-09T15:52:01.101Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Саня Факел",
+            "teamId": "61b223d35e76e10543f7891f"
+        }
+    },
+    {
+        "time": "1192.33",
+        "timeOrig": "2021-12-09T15:52:41.139Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b2248c5e76e10543f7892a"
+        }
+    },
+    {
+        "time": "1219.48",
+        "timeOrig": "2021-12-09T15:53:08.295Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b2264a5e76e10543f7892d",
+            "gameNumber": 3,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            }
+        }
+    },
+    {
+        "time": "1291.10",
+        "timeOrig": "2021-12-09T15:54:19.910Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Саня Факел",
+            "teamId": "61b223d35e76e10543f7891f"
+        }
+    },
+    {
+        "time": "1369.52",
+        "timeOrig": "2021-12-09T15:55:38.337Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Вова Новый",
+            "teamId": "61b223d35e76e10543f7891f"
+        }
+    },
+    {
+        "time": "1369.64",
+        "timeOrig": "2021-12-09T15:55:38.454Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b2264a5e76e10543f7892d"
+        }
+    },
+    {
+        "time": "1391.86",
+        "timeOrig": "2021-12-09T15:56:00.674Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b227055e76e10543f78930",
+            "gameNumber": 4,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            }
+        }
+    },
+    {
+        "time": "1700.32",
+        "timeOrig": "2021-12-09T16:01:09.130Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Валера",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "1761.60",
+        "timeOrig": "2021-12-09T16:02:10.414Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Валера",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "1761.71",
+        "timeOrig": "2021-12-09T16:02:10.525Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b227055e76e10543f78930"
+        }
+    },
+    {
+        "time": "1798.71",
+        "timeOrig": "2021-12-09T16:02:47.520Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b228a65e76e10543f78933",
+            "gameNumber": 5,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            }
+        }
+    },
+    {
+        "time": "1824.85",
+        "timeOrig": "2021-12-09T16:03:13.663Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Саня Темп",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "1859.68",
+        "timeOrig": "2021-12-09T16:03:48.492Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Вязкий",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "1859.80",
+        "timeOrig": "2021-12-09T16:03:48.617Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b228a65e76e10543f78933"
+        }
+    },
+    {
+        "time": "1915.82",
+        "timeOrig": "2021-12-09T16:04:44.633Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b228ea5e76e10543f78936",
+            "gameNumber": 6,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            }
+        }
+    },
+    {
+        "time": "1917.45",
+        "timeOrig": "2021-12-09T16:04:46.262Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Вова Новый",
+            "teamId": "61b223d35e76e10543f7891f"
+        }
+    },
+    {
+        "time": "2007.76",
+        "timeOrig": "2021-12-09T16:06:16.569Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Миша Блэк Бразе",
+            "teamId": "61b223d35e76e10543f7891f"
+        }
+    },
+    {
+        "time": "2007.87",
+        "timeOrig": "2021-12-09T16:06:16.683Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b228ea5e76e10543f78936"
+        }
+    },
+    {
+        "time": "2032.14",
+        "timeOrig": "2021-12-09T16:06:40.953Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b2297a5e76e10543f78939",
+            "gameNumber": 7,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            }
+        }
+    },
+    {
+        "time": "2073.68",
+        "timeOrig": "2021-12-09T16:07:22.497Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Миксер",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "2151.66",
+        "timeOrig": "2021-12-09T16:08:40.472Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Миксер",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "2151.76",
+        "timeOrig": "2021-12-09T16:08:40.578Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b2297a5e76e10543f78939"
+        }
+    },
+    {
+        "time": "2165.81",
+        "timeOrig": "2021-12-09T16:08:54.623Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b22a0b5e76e10543f7893c",
+            "gameNumber": 8,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            }
+        }
+    },
+    {
+        "time": "2602.73",
+        "timeOrig": "2021-12-09T16:16:11.544Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b22a0b5e76e10543f7893c"
+        }
+    },
+    {
+        "time": "2621.64",
+        "timeOrig": "2021-12-09T16:16:30.451Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b22bcc5e76e10543f7893d",
+            "gameNumber": 9,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            }
+        }
+    },
+    {
+        "time": "2719.59",
+        "timeOrig": "2021-12-09T16:18:08.400Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Саня Малыш",
+            "teamId": "61b223d35e76e10543f7891f"
+        }
+    },
+    {
+        "time": "2832.20",
+        "timeOrig": "2021-12-09T16:20:01.017Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Валера",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "2889.94",
+        "timeOrig": "2021-12-09T16:20:58.751Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Динамо",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "2916.09",
+        "timeOrig": "2021-12-09T16:21:24.900Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b22d035e76e10543f78941",
+            "gameNumber": 10,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            }
+        }
+    },
+    {
+        "time": "3072.04",
+        "timeOrig": "2021-12-09T16:24:00.853Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Дима от Миши",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "3145.71",
+        "timeOrig": "2021-12-09T16:25:14.525Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Валера",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "3200.51",
+        "timeOrig": "2021-12-09T16:26:09.320Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Вязкий",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "3234.65",
+        "timeOrig": "2021-12-09T16:26:43.461Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b22e235e76e10543f78945",
+            "gameNumber": 11,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            }
+        }
+    },
+    {
+        "time": "3280.32",
+        "timeOrig": "2021-12-09T16:27:29.136Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b22bcc5e76e10543f7893d"
+        }
+    },
+    {
+        "time": "3283.14",
+        "timeOrig": "2021-12-09T16:27:31.958Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b22d035e76e10543f78941"
+        }
+    },
+    {
+        "time": "3349.52",
+        "timeOrig": "2021-12-09T16:28:38.329Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Миксер",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "3676.78",
+        "timeOrig": "2021-12-09T16:34:05.588Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b22e235e76e10543f78945"
+        }
+    },
+    {
+        "time": "3889.61",
+        "timeOrig": "2021-12-09T16:37:38.423Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b230535e76e10543f78947",
+            "gameNumber": 12,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            }
+        }
+    },
+    {
+        "time": "4021.48",
+        "timeOrig": "2021-12-09T16:39:50.293Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Миша Блэк Бразе",
+            "teamId": "61b223d35e76e10543f7891f"
+        }
+    },
+    {
+        "time": "4170.22",
+        "timeOrig": "2021-12-09T16:42:19.036Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Андрей от Арарата",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "4222.61",
+        "timeOrig": "2021-12-09T16:43:11.426Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b230535e76e10543f78947"
+        }
+    },
+    {
+        "time": "4243.86",
+        "timeOrig": "2021-12-09T16:43:32.672Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b232205e76e10543f7894a",
+            "gameNumber": 13,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            }
+        }
+    },
+    {
+        "time": "4313.94",
+        "timeOrig": "2021-12-09T16:44:42.751Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Валера",
+            "teamId": "61b223d35e76e10543f78921"
+        }
+    },
+    {
+        "time": "4666.15",
+        "timeOrig": "2021-12-09T16:50:34.967Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b232205e76e10543f7894a"
+        }
+    },
+    {
+        "time": "4695.59",
+        "timeOrig": "2021-12-09T16:51:04.405Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b233db5e76e10543f7894c",
+            "gameNumber": 14,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f78920",
+                "name": "Синяя команда"
+            }
+        }
+    },
+    {
+        "time": "4772.13",
+        "timeOrig": "2021-12-09T16:52:20.942Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Вязкий",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "5015.80",
+        "timeOrig": "2021-12-09T16:56:24.617Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Вязкий",
+            "teamId": "61b223d35e76e10543f78920"
+        }
+    },
+    {
+        "time": "5015.93",
+        "timeOrig": "2021-12-09T16:56:24.741Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b233db5e76e10543f7894c"
+        }
+    },
+    {
+        "time": "5049.54",
+        "timeOrig": "2021-12-09T16:56:58.356Z",
+        "description": 2,
+        "payload": {
+            "gameId": "61b235435e76e10543f7894f",
+            "gameNumber": 15,
+            "firstTeam": {
+                "_id": "61b223d35e76e10543f78921",
+                "name": "Жёлтая команда"
+            },
+            "secondTeam": {
+                "_id": "61b223d35e76e10543f7891f",
+                "name": "Красная команда"
+            }
+        }
+    },
+    {
+        "time": "5125.43",
+        "timeOrig": "2021-12-09T16:58:14.247Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Саня Малыш",
+            "teamId": "61b223d35e76e10543f7891f"
+        }
+    },
+    {
+        "time": "5303.19",
+        "timeOrig": "2021-12-09T17:01:12.007Z",
+        "description": 4,
+        "payload": {
+            "playerName": "Саня Факел",
+            "teamId": "61b223d35e76e10543f7891f"
+        }
+    },
+    {
+        "time": "5303.30",
+        "timeOrig": "2021-12-09T17:01:12.111Z",
+        "description": 3,
+        "payload": {
+            "gameId": "61b235435e76e10543f7894f"
+        }
+    },
+    {
+        "time": "5323.21",
+        "timeOrig": "2021-12-09T17:01:32.021Z",
+        "description": 1,
+        "payload": {
+            "name": "ВСО, 09.12"
+        }
+    }
+]

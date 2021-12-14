@@ -11,6 +11,11 @@ class GoalScoredEvent(BasicEvent):
     def get_type(self):
         return constants.GOAL_SCORED
 
-    def get_duration(self):
-        pass
-        # следующий гол или 15 секунд.
+    def get_duration(self, all_future_events):
+        duration = 15
+
+        for event in all_future_events:
+            if event.get_type() == constants.GOAL_SCORED:
+                duration = event.get_time() - self.get_time()
+
+        return min(duration, 15)

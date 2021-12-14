@@ -10,6 +10,10 @@ class TournamentStartEvent(BasicEvent):
     def get_type(self):
         return constants.TOURNAMENT_START
 
-    def get_duration(self, all_events):
-        pass
-        # найти окончание турнира
+    def get_duration(self, all_future_events):
+        print('------------!', all_future_events)
+        for event in all_future_events:
+            if event.get_type() == constants.TOURNAMENT_STOPPED:
+                return event.get_time() - self.get_time()
+
+        return 0

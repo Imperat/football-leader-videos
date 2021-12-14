@@ -10,5 +10,5 @@ class GameStoppedEvent(BasicEvent):
     def get_type(self):
         return constants.GAME_STOPPED
 
-    def get_duration(self):
-        pass
+    def get_duration(self, all_future_events):
+        return 3

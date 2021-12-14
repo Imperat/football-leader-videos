@@ -10,5 +10,5 @@ class TournamentStoppedEvent(BasicEvent):
     def get_type(self):
         return constants.TOURNAMENT_STOPPED
 
-    def get_duration(self):
+    def get_duration(self, all_future_events):
         return 5

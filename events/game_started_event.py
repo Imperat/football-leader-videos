@@ -15,6 +15,11 @@ class GameStartedEvent(BasicEvent):
     def get_type(self):
         return constants.GAME_STARTED
 
-    def get_duration(self, all_events):
-        pass
-        # найти окончание игры
+    def get_duration(self, all_future_events):
+        for event in all_future_events:
+            if event.get_type() != constants.GAME_STOPPED:
+                continue
+
+            return event.get_time() - self.get_time()
+
+        return -1
